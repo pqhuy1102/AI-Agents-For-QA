@@ -1,0 +1,7 @@
+/generate_testcases_from_requirement
+
+Module: Checkout
+Evidence: trang https://staging.myapp.com/checkout
+File Requirement: checkout-api-spec.md
+PROJECT code: CRM
+Actors liên quan: Guest user, Logged-in user
